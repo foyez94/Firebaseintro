@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebaseintro</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+</resources>
